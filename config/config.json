@@ -1,8 +1,15 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "exampledb",
+    "password": "root",
+    "database": "aws-profile",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "local": {
+    "username": "root",
+    "password": "root",
+    "database": "aws-profile",
     "host": "localhost",
     "dialect": "mysql"
   },
